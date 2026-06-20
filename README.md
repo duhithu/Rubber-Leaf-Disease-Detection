@@ -6,18 +6,6 @@ An AI-powered mobile solution for identifying rubber leaf diseases and providing
 
 Rubber Buddy uses Deep Learning and Computer Vision techniques to identify common rubber leaf diseases from leaf images. The system provides disease information, treatment recommendations, and supports offline usage through TensorFlow Lite deployment on mobile devices.
 
-## 🎯 Features
-
-✅ Detect rubber leaf diseases from leaf images
-
-✅ Provide treatment recommendations
-
-✅ Mobile-friendly TensorFlow Lite model
-
-✅ Offline disease identification
-
-✅ Fast and user-friendly prediction process
-
 ## 🔬 Diseases Identified
 
 * Birdseye Leaf Disease
@@ -38,7 +26,7 @@ Rubber Buddy uses Deep Learning and Computer Vision techniques to identify commo
 ## 📂 Project Structure
 
 ```text
-Rubber-Buddy-Leaf-Disease-Detection/
+Rubber-Leaf-Disease-Detection/
 
 ├── notebooks/
 │   └── Rubber_Leaf_Disease_Classification.ipynb
@@ -93,18 +81,4 @@ Published at:
 **2022 International Conference on Advancements in Computing (ICAC)**
 
 DOI: 10.1109/ICAC57685.2022.10025087
-
-## 👨‍💻 Author
-
-I.L.Duhithu Sakuni Imbulana
-
-BSc Research Project
-
-Sri Lanka Institute of Information Technology (SLIIT)
-
-## 🙏 Acknowledgements
-
-* Rubber Research Institute of Sri Lanka
-* SLIIT Research Supervisors
-* IEEE ICAC 2022
 
