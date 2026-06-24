@@ -82,3 +82,5 @@ Published at:
 
 DOI: 10.1109/ICAC57685.2022.10025087
 
+Nominated for the National Best Quality Software Awards (NBQSA) and the World Summit Awards (WSA)! ✨
+
