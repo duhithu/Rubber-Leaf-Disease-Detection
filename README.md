@@ -39,7 +39,7 @@ Rubber-Leaf-Disease-Detection/
 │   └── rubber_leaf_disease_cnn.tflite
 
 ├── presentations/
-│   └── Rubber_Buddy_Project_Presentation.pptx
+│   └── PresentationsPDF_PDF.pdf
 └── README.md
 ```
 
